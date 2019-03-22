@@ -1,0 +1,2 @@
+####  &nbsp;&nbsp;问题：</br></br> &nbsp;&nbsp;1.Handler消息机制的模型包括哪些？</br></br> &nbsp;&nbsp;2.Handler消息机制的运行流程是什么？</br></br> &nbsp;&nbsp;3.Handler消息机制的源码解析：</br></br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1>.Looper能否重复创建，如果能的话条件是什么？</br></br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2>.MessageQueue底层用的是什么数据结构?</br></br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3>.Handler中当消息队列中没有消息时，next()会发生无限循环，为什么不会导致死循环？
+- - -
